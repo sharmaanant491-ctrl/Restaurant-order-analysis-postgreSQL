@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/restaurant-order-analysis-thumbnail.jpg" alt="Restaurant Order Analysis - PostgreSQL Data Insights" width="100%">
+
 
 # 🍽️ Restaurant Order Analysis: PostgreSQL Data Insights
 
